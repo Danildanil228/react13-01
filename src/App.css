@@ -1,0 +1,111 @@
+header{
+  background-color: #4A2B33; 
+}
+main{
+  background-color: white;
+}
+div, section{
+  padding-bottom: 30px;
+}
+.header{
+
+  display: flex;
+  justify-content: space-between;
+  width: 1400px;
+  margin: 0 auto;
+  align-items: center;
+}
+.logo{
+font-size: 32px;
+color: #D27487;
+font-weight: 700;
+
+}
+
+.nav-link, a{
+  color: #D27487;
+  gap: 30px;
+  display: flex;
+}
+.nav-img{
+  display: flex; 
+  width: 258px;
+}
+.nav-img img{
+  height: 20px;
+}
+section img{
+  display: flex;
+  margin: 0 auto;
+}
+.about{
+  font-size: 32px;
+  height: 715px;
+  display: grid;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.menu{
+  background-color: #E9E9E3;
+  padding-top: 120px;
+  gap: 100px;
+  display: flex;
+  justify-content: center;
+}
+.menu-btn{
+  display: grid;
+  margin-top: 60px;
+}
+.menu img{
+  height: 664px;
+}
+.text600{
+  font-weight: 600;
+  font-size: 18px;
+}
+.text32{
+  font-size: 32px;
+  color: #6F6F64;
+}
+.hour{
+  padding: 120px 0;
+  gap: 300px;
+  display: flex;
+  justify-content: center;
+ background-color: #AA9E54;
+  text-align: center;
+  color: white;
+}
+.sat{
+  margin-top: 30px;
+}
+.main-img1 img{
+  margin-bottom: 40px;
+}
+.main-img{
+  margin-top: 120px;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+.text{
+  display: flex;
+  justify-content: center;
+  color: #D27487;
+  background-color: #4A2B33;
+  padding: 120px 0;
+  gap: 500px;
+}
+.text1{
+  font-size: 47px;
+}
+ footer div{
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+footer{
+  display: grid;
+  margin: 30px 0;
+}

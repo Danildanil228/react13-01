@@ -18,9 +18,12 @@ function App() {
           </div>
           <div class="logo">LATTE CAFE</div>
           <div class="nav-img">
-            <img src="/face.png" alt="" />
-            <img src="/inst.png" alt="" />
-            <img src="/mail.png" alt="" />
+            
+            <a href=""><img src="/face.png" alt="" /></a>
+            <a href=""><img src="/inst.png" alt="" /></a>
+            <a href=""><img src="/mail.png" alt="" /></a>
+            
+            
           </div>
         </section>
         <section>

@@ -28,10 +28,13 @@ font-weight: 700;
   display: flex;
 }
 .nav-img{
+  gap: 40px;
+}
+.nav-img{
   display: flex; 
   width: 258px;
 }
-.nav-img img{
+.nav-img a{
   height: 20px;
 }
 section img{
